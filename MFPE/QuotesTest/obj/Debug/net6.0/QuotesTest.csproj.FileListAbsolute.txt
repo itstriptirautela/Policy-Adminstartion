@@ -1,0 +1,6 @@
+C:\Users\2064860\source\repos\MFPE\QuotesTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\2064860\source\repos\MFPE\QuotesTest\obj\Debug\net6.0\QuotesTest.csproj.AssemblyReference.cache
+C:\Users\2064860\source\repos\MFPE\QuotesTest\obj\Debug\net6.0\QuotesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2064860\source\repos\MFPE\QuotesTest\obj\Debug\net6.0\QuotesTest.AssemblyInfoInputs.cache
+C:\Users\2064860\source\repos\MFPE\QuotesTest\obj\Debug\net6.0\QuotesTest.AssemblyInfo.cs
+C:\Users\2064860\source\repos\MFPE\QuotesTest\obj\Debug\net6.0\QuotesTest.csproj.CoreCompileInputs.cache

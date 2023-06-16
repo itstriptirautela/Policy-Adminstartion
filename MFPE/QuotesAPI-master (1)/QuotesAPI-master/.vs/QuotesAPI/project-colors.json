@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "472f37bb-8044-45b0-a88b-040e29164eeb": {
+      "ProjectGuid": "472f37bb-8044-45b0-a88b-040e29164eeb",
+      "DisplayName": "QuotesAPI",
+      "ColorIndex": 0
+    },
+    "5436fade-d9dd-494e-a7f1-6359c970e9f0": {
+      "ProjectGuid": "5436fade-d9dd-494e-a7f1-6359c970e9f0",
+      "DisplayName": "QuotesTest",
+      "ColorIndex": 1
+    },
+    "38fb75f2-6dfc-4a5d-93ea-199fe71b62fb": {
+      "ProjectGuid": "38fb75f2-6dfc-4a5d-93ea-199fe71b62fb",
+      "DisplayName": "QuotesTest",
+      "ColorIndex": 2
+    },
+    "f164330c-4520-4a1d-8de1-a438be58ccd0": {
+      "ProjectGuid": "f164330c-4520-4a1d-8de1-a438be58ccd0",
+      "DisplayName": "QuotesTest",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

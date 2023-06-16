@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolicyAPI", "PolicyAPI.csproj", "{BDC49722-2C78-4E30-A46F-34ACA0014690}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolicyMicroserviceTest", "..\..\PolicyMicroservice&Test\PolicyMicroserviceTest\PolicyMicroserviceTest.csproj", "{59C4D5E7-EFA8-455C-8C58-25B1791AC38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC49722-2C78-4E30-A46F-34ACA0014690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC49722-2C78-4E30-A46F-34ACA0014690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC49722-2C78-4E30-A46F-34ACA0014690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC49722-2C78-4E30-A46F-34ACA0014690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C4D5E7-EFA8-455C-8C58-25B1791AC38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C4D5E7-EFA8-455C-8C58-25B1791AC38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C4D5E7-EFA8-455C-8C58-25B1791AC38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C4D5E7-EFA8-455C-8C58-25B1791AC38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {943E120E-E9C6-435F-B304-E00E9A94652D}
+	EndGlobalSection
+EndGlobal

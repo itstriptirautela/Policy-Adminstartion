@@ -1,0 +1,419 @@
+INFO  06:38:36 Application started. Press Ctrl+C to shut down.
+INFO  06:38:36 Hosting environment: Development
+INFO  06:38:36 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  06:38:50 Getting quote value
+INFO  06:39:21 Application started. Press Ctrl+C to shut down.
+INFO  06:39:21 Hosting environment: Development
+INFO  06:39:21 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  06:39:32 Getting Policies By Id
+INFO  06:59:07 Application started. Press Ctrl+C to shut down.
+INFO  06:59:07 Hosting environment: Development
+INFO  06:59:07 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  06:59:58 Application started. Press Ctrl+C to shut down.
+INFO  06:59:58 Hosting environment: Development
+INFO  06:59:58 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  07:00:57 Application started. Press Ctrl+C to shut down.
+INFO  07:00:57 Hosting environment: Development
+INFO  07:00:57 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  07:03:37 IssuePolicy has been accessed
+INFO  07:04:12 Getting Policies By Id
+INFO  08:28:25 Application started. Press Ctrl+C to shut down.
+INFO  08:28:25 Hosting environment: Development
+INFO  08:28:25 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:29:31 Getting Policies By Id
+INFO  08:30:17 ViewConsumerPolicyById has been accessed
+INFO  08:32:52 Application started. Press Ctrl+C to shut down.
+INFO  08:32:52 Hosting environment: Development
+INFO  08:32:52 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:33:15 Getting quote value
+INFO  08:34:41 Getting quote value
+INFO  08:34:55 Getting properties from Consumer API
+INFO  08:39:46 Application started. Press Ctrl+C to shut down.
+INFO  08:39:46 Hosting environment: Development
+INFO  08:39:46 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:40:06 Getting quote value
+INFO  08:40:21 Getting properties from Consumer API
+INFO  08:40:46 Creating policy has been accessed
+INFO  08:41:19 Getting Policies By Id
+INFO  08:42:29 Application started. Press Ctrl+C to shut down.
+INFO  08:42:29 Hosting environment: Development
+INFO  08:42:29 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:42:58 Creating policy has been accessed
+INFO  08:46:40 Application started. Press Ctrl+C to shut down.
+INFO  08:46:40 Hosting environment: Development
+INFO  08:46:40 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:47:06 Getting quote value
+INFO  08:51:59 Application started. Press Ctrl+C to shut down.
+INFO  08:51:59 Hosting environment: Development
+INFO  08:51:59 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:52:23 Getting quote value
+INFO  08:52:31 Getting properties from Consumer API
+INFO  08:52:45 Getting business values from Consumer API
+INFO  08:53:47 Getting Policies By Id
+INFO  08:54:00 ViewConsumerPolicyById has been accessed
+INFO  09:17:04 Application started. Press Ctrl+C to shut down.
+INFO  09:17:04 Hosting environment: Development
+INFO  09:17:04 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  09:17:52 Getting quote value
+INFO  09:18:55 Application started. Press Ctrl+C to shut down.
+INFO  09:18:55 Hosting environment: Development
+INFO  09:18:55 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  09:22:51 Application started. Press Ctrl+C to shut down.
+INFO  09:22:51 Hosting environment: Development
+INFO  09:22:51 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  09:23:07 Getting quote value
+INFO  09:23:44 Application started. Press Ctrl+C to shut down.
+INFO  09:23:44 Hosting environment: Development
+INFO  09:23:44 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  09:35:03 Application started. Press Ctrl+C to shut down.
+INFO  09:35:03 Hosting environment: Development
+INFO  09:35:03 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  09:35:21 Getting quote value
+INFO  09:39:37 Application started. Press Ctrl+C to shut down.
+INFO  09:39:37 Hosting environment: Development
+INFO  09:39:37 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  09:48:56 Application started. Press Ctrl+C to shut down.
+INFO  09:48:56 Hosting environment: Development
+INFO  09:48:56 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  09:51:45 Application started. Press Ctrl+C to shut down.
+INFO  09:51:45 Hosting environment: Development
+INFO  09:51:45 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  09:56:03 Application started. Press Ctrl+C to shut down.
+INFO  09:56:03 Hosting environment: Development
+INFO  09:56:03 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  09:56:31 Getting quote value
+INFO  10:11:21 Application started. Press Ctrl+C to shut down.
+INFO  10:11:21 Hosting environment: Development
+INFO  10:11:21 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  10:12:36 Application started. Press Ctrl+C to shut down.
+INFO  10:12:36 Hosting environment: Development
+INFO  10:12:36 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  10:13:13 Getting quote value
+INFO  10:14:08 Application started. Press Ctrl+C to shut down.
+INFO  10:14:08 Hosting environment: Development
+INFO  10:14:08 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  10:14:30 Getting quote value
+INFO  10:23:37 Application started. Press Ctrl+C to shut down.
+INFO  10:23:37 Hosting environment: Development
+INFO  10:23:37 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  10:25:46 Getting quote value
+INFO  10:50:55 Application started. Press Ctrl+C to shut down.
+INFO  10:50:55 Hosting environment: Development
+INFO  10:50:55 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  10:51:27 Getting quote value
+INFO  11:22:29 Application started. Press Ctrl+C to shut down.
+INFO  11:22:29 Hosting environment: Development
+INFO  11:22:29 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  11:28:04 Application started. Press Ctrl+C to shut down.
+INFO  11:28:04 Hosting environment: Development
+INFO  11:28:04 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  11:28:27 Getting quote value
+INFO  11:28:35 Getting properties from Consumer API
+INFO  11:28:46 Getting business values from Consumer API
+INFO  11:28:56 ViewConsumerPolicyById has been accessed
+INFO  11:29:07 Getting Policies By Id
+INFO  11:16:06 Application started. Press Ctrl+C to shut down.
+INFO  11:16:06 Hosting environment: Development
+INFO  11:16:06 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  11:16:16 Getting quote value
+INFO  04:27:50 Application started. Press Ctrl+C to shut down.
+INFO  04:27:50 Hosting environment: Development
+INFO  04:27:50 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  04:29:16 Getting Policies By Id
+INFO  04:40:09 Application started. Press Ctrl+C to shut down.
+INFO  04:40:09 Hosting environment: Development
+INFO  04:40:09 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  04:40:24 Getting consumer policies from Policy API
+INFO  04:56:07 Getting consumer policies from Policy API
+INFO  04:58:09 Application started. Press Ctrl+C to shut down.
+INFO  04:58:09 Hosting environment: Development
+INFO  04:58:09 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  04:58:39 Getting consumer policies from Policy API
+INFO  04:59:24 Getting consumer policies from Policy API
+INFO  05:03:04 Getting consumer policies from Policy API
+INFO  07:27:50 Application started. Press Ctrl+C to shut down.
+INFO  07:27:50 Hosting environment: Development
+INFO  07:27:50 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  07:29:15 Getting quote value
+INFO  07:30:07 Getting quote value
+INFO  07:31:36 Getting quote value
+INFO  07:34:11 Getting quote value
+INFO  07:38:54 Application started. Press Ctrl+C to shut down.
+INFO  07:38:54 Hosting environment: Development
+INFO  07:38:54 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  07:39:35 Getting quote value
+INFO  07:44:07 Application started. Press Ctrl+C to shut down.
+INFO  07:44:07 Hosting environment: Development
+INFO  07:44:07 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  07:44:33 Getting quote value
+INFO  07:45:55 Application started. Press Ctrl+C to shut down.
+INFO  07:45:55 Hosting environment: Development
+INFO  07:45:55 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  07:46:14 Getting quote value
+INFO  07:47:31 Application started. Press Ctrl+C to shut down.
+INFO  07:47:31 Hosting environment: Development
+INFO  07:47:31 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  07:47:49 Getting quote value
+INFO  07:49:11 Application started. Press Ctrl+C to shut down.
+INFO  07:49:11 Hosting environment: Development
+INFO  07:49:11 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  07:49:29 Getting quote value
+INFO  07:53:09 Application started. Press Ctrl+C to shut down.
+INFO  07:53:09 Hosting environment: Development
+INFO  07:53:09 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  07:53:33 Getting quote value
+INFO  08:01:30 Application started. Press Ctrl+C to shut down.
+INFO  08:01:30 Hosting environment: Development
+INFO  08:01:30 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:01:50 Getting quote value
+INFO  08:07:37 Application started. Press Ctrl+C to shut down.
+INFO  08:07:37 Hosting environment: Development
+INFO  08:07:37 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:09:04 Getting quote value
+INFO  08:17:01 Application started. Press Ctrl+C to shut down.
+INFO  08:17:01 Hosting environment: Development
+INFO  08:17:01 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:17:35 Getting quote value
+INFO  08:18:21 Application started. Press Ctrl+C to shut down.
+INFO  08:18:21 Hosting environment: Development
+INFO  08:18:21 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:18:35 Getting quote value
+INFO  08:31:19 Application started. Press Ctrl+C to shut down.
+INFO  08:31:19 Hosting environment: Development
+INFO  08:31:19 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:32:11 Getting quote value
+INFO  08:36:08 Application started. Press Ctrl+C to shut down.
+INFO  08:36:08 Hosting environment: Development
+INFO  08:36:08 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:36:27 Getting quote value
+INFO  08:39:58 Application started. Press Ctrl+C to shut down.
+INFO  08:39:58 Hosting environment: Development
+INFO  08:39:58 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:40:31 Getting properties from Consumer API
+INFO  08:41:29 Getting properties from Consumer API
+INFO  08:41:44 Getting business values from Consumer API
+INFO  08:41:57 Getting consumer policies from Policy API
+INFO  08:42:07 Getting Policies By Id
+INFO  08:42:15 ViewConsumerPolicyById has been accessed
+ERROR 08:44:18 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyAPI.Service.PolicyService.ViewPolicyById(Int32 policyId, String authtoken) in C:\Users\2064827\source\repos\MFPE\PolicyAPI\Service\PolicyService.cs:line 137
+   at PolicyAPI.Controller.PolicyController.ViewConsumerPolicyById(Int32 policyId) in C:\Users\2064827\source\repos\MFPE\PolicyAPI\Controller\PolicyController.cs:line 82
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:45:38 Getting quote value
+INFO  08:45:42 Getting properties from Consumer API
+INFO  08:45:57 Getting properties from Consumer API
+INFO  08:46:38 Getting properties from Consumer API
+INFO  08:48:49 Getting properties from Consumer API
+INFO  08:51:29 Application started. Press Ctrl+C to shut down.
+INFO  08:51:29 Hosting environment: Development
+INFO  08:51:29 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:51:45 Getting quote value
+INFO  08:51:54 Getting properties from Consumer API
+INFO  08:52:20 Getting properties from Consumer API
+INFO  08:53:04 Application started. Press Ctrl+C to shut down.
+INFO  08:53:04 Hosting environment: Development
+INFO  08:53:04 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:53:24 Getting properties from Consumer API
+INFO  08:55:29 Application started. Press Ctrl+C to shut down.
+INFO  08:55:29 Hosting environment: Development
+INFO  08:55:29 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:56:18 Getting quote value
+INFO  08:56:26 Getting properties from Consumer API
+INFO  08:57:18 Getting business values from Consumer API
+INFO  08:58:12 Getting business values from Consumer API
+INFO  08:58:24 Creating policy has been accessed
+ERROR 08:58:28 Failed executing DbCommand (150ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [consumerPolicies] ([PolicyMasterId], [PolicyStatus], [PropertyId], [QuoteValue])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [PolicyId]
+FROM [consumerPolicies]
+WHERE @@ROWCOUNT = 1 AND [PolicyId] = scope_identity();
+INFO  08:58:45 IssuePolicy has been accessed
+INFO  08:58:57 Getting consumer policies from Policy API
+INFO  08:59:53 Getting Policies By Id
+INFO  08:59:58 Getting Policies By Id
+INFO  09:00:02 Getting Policies By Id
+INFO  09:01:37 Creating policy has been accessed
+INFO  09:25:40 Application started. Press Ctrl+C to shut down.
+INFO  09:25:40 Hosting environment: Development
+INFO  09:25:40 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  09:28:22 Getting quote value
+INFO  09:28:54 Getting properties from Consumer API
+INFO  09:29:21 Getting business values from Consumer API
+INFO  09:31:35 Creating policy has been accessed
+INFO  09:31:56 Creating policy has been accessed
+ERROR 09:32:04 Failed executing DbCommand (65ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [consumerPolicies] ([PolicyMasterId], [PolicyStatus], [PropertyId], [QuoteValue])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [PolicyId]
+FROM [consumerPolicies]
+WHERE @@ROWCOUNT = 1 AND [PolicyId] = scope_identity();
+INFO  09:35:29 Creating policy has been accessed
+ERROR 09:41:58 Failed executing DbCommand (247,969ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [consumerPolicies] ([PolicyMasterId], [PolicyStatus], [PropertyId], [QuoteValue])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [PolicyId]
+FROM [consumerPolicies]
+WHERE @@ROWCOUNT = 1 AND [PolicyId] = scope_identity();
+INFO  09:46:58 Creating policy has been accessed
+INFO  10:01:30 Application started. Press Ctrl+C to shut down.
+INFO  10:01:30 Hosting environment: Development
+INFO  10:01:30 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  10:02:34 Creating policy has been accessed
+ERROR 10:02:52 An error occurred using a transaction.
+INFO  10:07:20 Application started. Press Ctrl+C to shut down.
+INFO  10:07:20 Hosting environment: Development
+INFO  10:07:20 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  10:07:39 Creating policy has been accessed
+INFO  10:11:12 IssuePolicy has been accessed
+INFO  10:12:52 Application started. Press Ctrl+C to shut down.
+INFO  10:12:52 Hosting environment: Development
+INFO  10:12:52 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  10:13:14 IssuePolicy has been accessed
+INFO  10:14:39 Application started. Press Ctrl+C to shut down.
+INFO  10:14:39 Hosting environment: Development
+INFO  10:14:39 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  10:15:20 IssuePolicy has been accessed
+INFO  10:17:06 ViewConsumerPolicyById has been accessed
+INFO  10:17:18 Getting Policies By Id
+INFO  10:17:24 Getting consumer policies from Policy API
+INFO  08:16:01 Application started. Press Ctrl+C to shut down.
+INFO  08:16:01 Hosting environment: Development
+INFO  08:16:01 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  08:21:24 Getting consumer policies from Policy API
+INFO  09:03:44 Getting consumer policies from Policy API
+INFO  09:08:29 Creating policy has been accessed
+INFO  09:11:03 Getting consumer policies from Policy API
+INFO  09:11:11 Getting consumer policies from Policy API
+INFO  09:39:50 Getting consumer policies from Policy API
+INFO  09:40:58 Getting consumer policies from Policy API
+INFO  09:45:17 Getting consumer policies from Policy API
+INFO  10:08:56 Getting consumer policies from Policy API
+INFO  10:09:11 Getting consumer policies from Policy API
+INFO  10:16:32 Getting consumer policies from Policy API
+INFO  10:26:35 Getting consumer policies from Policy API
+INFO  10:31:08 Getting consumer policies from Policy API
+INFO  10:31:32 Getting consumer policies from Policy API
+INFO  10:51:13 Application started. Press Ctrl+C to shut down.
+INFO  10:51:13 Hosting environment: Development
+INFO  10:51:13 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  10:54:36 Getting consumer policies from Policy API
+INFO  11:04:26 Getting consumer policies from Policy API
+INFO  11:05:33 Getting consumer policies from Policy API
+INFO  11:59:35 Application started. Press Ctrl+C to shut down.
+INFO  11:59:35 Hosting environment: Development
+INFO  11:59:35 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  12:01:32 Getting consumer policies from Policy API
+INFO  12:03:03 Application started. Press Ctrl+C to shut down.
+INFO  12:03:03 Hosting environment: Development
+INFO  12:03:03 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  12:23:35 Application started. Press Ctrl+C to shut down.
+INFO  12:23:35 Hosting environment: Development
+INFO  12:23:35 Content root path: C:\Users\2064827\source\repos\MFPE\PolicyAPI
+INFO  12:43:57 Getting consumer policies from Policy API
+INFO  12:44:29 Getting consumer policies from Policy API
+INFO  12:44:53 Getting consumer policies from Policy API
+INFO  12:51:24 Getting consumer policies from Policy API
+INFO  12:59:39 Getting consumer policies from Policy API
+INFO  01:05:34 Getting consumer policies from Policy API
+INFO  01:08:02 Creating policy has been accessed
+INFO  01:09:51 IssuePolicy has been accessed
+INFO  01:10:26 Creating policy has been accessed
+INFO  01:10:35 Getting consumer policies from Policy API
+INFO  01:10:40 Getting consumer policies from Policy API
+INFO  01:10:50 IssuePolicy has been accessed
+INFO  01:10:53 Getting consumer policies from Policy API
+INFO  04:17:45 Application started. Press Ctrl+C to shut down.
+INFO  04:17:45 Hosting environment: Development
+INFO  04:17:45 Content root path: C:\Users\2064860\Downloads\PolicyAPINEW-master\PolicyAPINEW-master
+INFO  04:23:30 Getting quote value
+INFO  04:24:16 Creating policy has been accessed
+INFO  05:30:52 Application started. Press Ctrl+C to shut down.
+INFO  05:30:53 Hosting environment: Development
+INFO  05:30:53 Content root path: C:\Users\2064860\Downloads\PolicyAPINEW-master\PolicyAPINEW-master
+INFO  06:02:26 Application started. Press Ctrl+C to shut down.
+INFO  06:02:26 Hosting environment: Development
+INFO  06:02:26 Content root path: C:\Users\2064860\Downloads\PolicyAPINEW-master\PolicyAPINEW-master
+INFO  06:04:10 Creating policy has been accessed
+INFO  06:26:53 Creating policy has been accessed
+INFO  06:26:54 Creating policy has been accessed
+INFO  06:27:06 Getting consumer policies from Policy API
+INFO  06:27:06 Getting consumer policies from Policy API
+INFO  06:27:13 Getting consumer policies from Policy API
+INFO  06:27:49 Creating policy has been accessed
+INFO  12:22:00 Application started. Press Ctrl+C to shut down.
+INFO  12:22:01 Hosting environment: Development
+INFO  12:22:01 Content root path: C:\Users\2064860\Downloads\PolicyAPINEW-master\PolicyAPINEW-master
+INFO  12:22:37 Getting properties from Consumer API
+INFO  12:22:59 Getting business values from Consumer API
+INFO  12:23:24 IssuePolicy has been accessed
+INFO  12:23:42 Creating policy has been accessed
+INFO  12:23:58 Creating policy has been accessed
+INFO  12:24:08 Creating policy has been accessed
+INFO  12:24:18 IssuePolicy has been accessed
+INFO  12:24:30 ViewConsumerPolicyById has been accessed
+INFO  12:34:04 Application started. Press Ctrl+C to shut down.
+INFO  12:34:04 Hosting environment: Development
+INFO  12:34:04 Content root path: C:\Users\2064860\Downloads\PolicyAPINEW-master\PolicyAPINEW-master
+INFO  12:35:07 Getting properties from Consumer API
+INFO  12:35:30 IssuePolicy has been accessed
+INFO  12:35:47 Creating policy has been accessed
+INFO  12:35:54 Creating policy has been accessed
+INFO  12:36:24 ViewConsumerPolicyById has been accessed
+INFO  12:36:45 Getting Policies By Id
+INFO  12:37:00 Getting consumer policies from Policy API
+INFO  12:37:08 Getting Policies By Id
+INFO  12:49:18 Creating policy has been accessed
+INFO  12:49:27 Getting consumer policies from Policy API
+INFO  12:49:41 IssuePolicy has been accessed
+INFO  12:49:47 Getting consumer policies from Policy API
+INFO  12:49:58 Getting consumer policies from Policy API
+INFO  12:50:06 Getting consumer policies from Policy API
+INFO  12:50:09 Getting consumer policies from Policy API
+INFO  12:50:17 Creating policy has been accessed
+INFO  12:50:21 Getting consumer policies from Policy API
+INFO  12:50:27 Creating policy has been accessed
+INFO  12:50:29 Getting consumer policies from Policy API
+INFO  12:50:35 Getting consumer policies from Policy API
+INFO  12:50:43 IssuePolicy has been accessed
+INFO  12:50:44 Getting consumer policies from Policy API
+INFO  12:50:45 Getting consumer policies from Policy API
+INFO  12:50:49 Getting consumer policies from Policy API
+INFO  12:30:33 Application started. Press Ctrl+C to shut down.
+INFO  12:30:33 Hosting environment: Development
+INFO  12:30:33 Content root path: C:\Users\2064860\Downloads\PolicyAPINEW-master\PolicyAPINEW-master
+INFO  12:36:24 Getting consumer policies from Policy API
+INFO  12:37:25 Getting consumer policies from Policy API
+INFO  12:37:53 Getting consumer policies from Policy API
+INFO  12:37:57 Creating policy has been accessed
+INFO  12:38:00 Creating policy has been accessed
+INFO  12:38:11 Getting consumer policies from Policy API
+INFO  12:38:21 Getting consumer policies from Policy API
+INFO  12:38:28 Getting consumer policies from Policy API
+INFO  12:38:36 IssuePolicy has been accessed
+INFO  12:38:41 Getting consumer policies from Policy API
+INFO  12:38:46 IssuePolicy has been accessed
+INFO  12:38:48 Getting consumer policies from Policy API
+INFO  12:39:01 IssuePolicy has been accessed
+INFO  12:39:03 Getting consumer policies from Policy API
+INFO  12:45:02 Getting consumer policies from Policy API

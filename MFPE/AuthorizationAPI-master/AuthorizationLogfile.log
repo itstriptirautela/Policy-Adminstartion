@@ -1,0 +1,371 @@
+INFO  04:14:29 Application started. Press Ctrl+C to shut down.
+INFO  04:14:29 Hosting environment: Development
+INFO  04:14:29 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  04:14:41 Getting All Agents
+INFO  04:15:00 Token is Generated
+INFO  06:21:23 Application started. Press Ctrl+C to shut down.
+INFO  06:21:23 Hosting environment: Development
+INFO  06:21:23 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  06:21:44 Agent is Found
+INFO  06:21:44 Token is Generated
+INFO  06:24:00 Application started. Press Ctrl+C to shut down.
+INFO  06:24:00 Hosting environment: Development
+INFO  06:24:00 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  06:24:43 Agent is Found
+INFO  06:24:43 Token is Generated
+INFO  06:29:48 Getting All Agents
+INFO  06:39:14 Application started. Press Ctrl+C to shut down.
+INFO  06:39:14 Hosting environment: Development
+INFO  06:39:14 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  06:39:49 Agent is Found
+INFO  06:39:49 Token is Generated
+INFO  06:40:27 Application started. Press Ctrl+C to shut down.
+INFO  06:40:27 Hosting environment: Development
+INFO  06:40:27 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  06:51:33 Getting All Agents
+INFO  07:20:10 Application started. Press Ctrl+C to shut down.
+INFO  07:20:10 Hosting environment: Development
+INFO  07:20:10 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:55:36 Application started. Press Ctrl+C to shut down.
+INFO  07:55:36 Hosting environment: Development
+INFO  07:55:36 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:55:53 Agent is Found
+INFO  07:55:53 Token is Generated
+INFO  10:52:36 Application started. Press Ctrl+C to shut down.
+INFO  10:52:36 Hosting environment: Development
+INFO  10:52:36 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  11:06:44 Agent is Found
+INFO  11:06:44 Token is Generated
+INFO  12:58:35 Application started. Press Ctrl+C to shut down.
+INFO  12:58:35 Hosting environment: Development
+INFO  12:58:35 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  12:58:53 Agent is Found
+INFO  12:58:53 Token is Generated
+INFO  01:03:34 Application started. Press Ctrl+C to shut down.
+INFO  01:03:34 Hosting environment: Development
+INFO  01:03:34 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:04:09 Agent is Found
+INFO  01:04:09 Token is Generated
+INFO  01:12:18 Application started. Press Ctrl+C to shut down.
+INFO  01:12:18 Hosting environment: Development
+INFO  01:12:18 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:12:35 Agent is Found
+INFO  01:12:35 Token is Generated
+INFO  01:24:29 Application started. Press Ctrl+C to shut down.
+INFO  01:24:29 Hosting environment: Development
+INFO  01:24:29 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:24:46 Agent is Found
+INFO  01:24:46 Token is Generated
+INFO  01:30:50 Application started. Press Ctrl+C to shut down.
+INFO  01:30:50 Hosting environment: Development
+INFO  01:30:50 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:31:25 Agent is Found
+INFO  01:31:25 Token is Generated
+INFO  01:44:03 Application started. Press Ctrl+C to shut down.
+INFO  01:44:03 Hosting environment: Development
+INFO  01:44:03 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:44:20 Agent is Found
+INFO  01:44:20 Token is Generated
+INFO  01:50:00 Application started. Press Ctrl+C to shut down.
+INFO  01:50:00 Hosting environment: Development
+INFO  01:50:00 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:50:19 Agent is Found
+INFO  01:50:19 Token is Generated
+INFO  02:02:16 Application started. Press Ctrl+C to shut down.
+INFO  02:02:16 Hosting environment: Development
+INFO  02:02:16 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  02:02:36 Agent is Found
+INFO  02:02:36 Token is Generated
+INFO  02:13:40 Application started. Press Ctrl+C to shut down.
+INFO  02:13:40 Hosting environment: Development
+INFO  02:13:40 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  02:15:05 Application started. Press Ctrl+C to shut down.
+INFO  02:15:05 Hosting environment: Development
+INFO  02:15:05 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  02:15:26 Agent is Found
+INFO  02:15:26 Token is Generated
+FATAL 02:25:13 Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.DataProtection.IDataProtectionProvider' while attempting to activate 'Microsoft.AspNetCore.Session.SessionMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+INFO  02:26:06 Application started. Press Ctrl+C to shut down.
+INFO  02:26:06 Hosting environment: Development
+INFO  02:26:06 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  02:26:29 Agent is Found
+INFO  02:26:29 Token is Generated
+INFO  02:31:46 Agent is Found
+INFO  02:31:46 Token is Generated
+INFO  02:35:57 Application started. Press Ctrl+C to shut down.
+INFO  02:35:57 Hosting environment: Development
+INFO  02:35:57 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  02:36:19 Agent is Found
+INFO  02:36:19 Token is Generated
+INFO  02:44:57 Application started. Press Ctrl+C to shut down.
+INFO  02:44:57 Hosting environment: Development
+INFO  02:44:57 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:02:30 Application started. Press Ctrl+C to shut down.
+INFO  07:02:30 Hosting environment: Development
+INFO  07:02:30 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:02:48 Agent is Found
+INFO  07:02:48 Token is Generated
+INFO  07:17:21 Application started. Press Ctrl+C to shut down.
+INFO  07:17:21 Hosting environment: Development
+INFO  07:17:21 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:17:47 Agent is Found
+INFO  07:17:47 Token is Generated
+INFO  07:24:09 Application started. Press Ctrl+C to shut down.
+INFO  07:24:09 Hosting environment: Development
+INFO  07:24:09 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:24:36 Agent is Found
+INFO  07:24:36 Token is Generated
+INFO  07:24:52 Agent is Found
+INFO  07:24:52 Token is Generated
+INFO  11:10:03 Application started. Press Ctrl+C to shut down.
+INFO  11:10:03 Hosting environment: Development
+INFO  11:10:03 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  11:12:08 Agent is Found
+INFO  11:12:08 Token is Generated
+INFO  11:04:23 Application started. Press Ctrl+C to shut down.
+INFO  11:04:23 Hosting environment: Development
+INFO  11:04:23 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  11:05:02 Agent is Found
+INFO  11:05:02 Token is Generated
+INFO  11:58:12 Application started. Press Ctrl+C to shut down.
+INFO  11:58:12 Hosting environment: Development
+INFO  11:58:12 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  11:58:35 Agent is Found
+INFO  11:58:35 Token is Generated
+INFO  12:20:31 Application started. Press Ctrl+C to shut down.
+INFO  12:20:31 Hosting environment: Development
+INFO  12:20:31 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  04:50:08 Application started. Press Ctrl+C to shut down.
+INFO  04:50:09 Hosting environment: Development
+INFO  04:50:09 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  04:50:34 Agent is Found
+INFO  04:50:34 Token is Generated
+INFO  07:01:12 Application started. Press Ctrl+C to shut down.
+INFO  07:01:12 Hosting environment: Development
+INFO  07:01:12 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  07:05:26 Agent is Found
+INFO  07:05:26 Token is Generated
+INFO  06:38:35 Application started. Press Ctrl+C to shut down.
+INFO  06:38:35 Hosting environment: Development
+INFO  06:38:35 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  06:40:37 No Agent is Found
+INFO  06:40:43 Agent is Found
+INFO  06:40:43 Token is Generated
+INFO  07:17:14 Agent is Found
+INFO  07:17:14 Token is Generated
+INFO  08:58:11 Application started. Press Ctrl+C to shut down.
+INFO  08:58:11 Hosting environment: Development
+INFO  08:58:11 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  08:58:36 Agent is Found
+INFO  08:58:36 Token is Generated
+INFO  09:25:47 Application started. Press Ctrl+C to shut down.
+INFO  09:25:47 Hosting environment: Development
+INFO  09:25:47 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  09:26:38 Agent is Found
+INFO  09:26:38 Token is Generated
+INFO  09:44:15 Application started. Press Ctrl+C to shut down.
+INFO  09:44:15 Hosting environment: Development
+INFO  09:44:15 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+ERROR 09:44:17 Connection ID "18302628908719144966", Request ID "80000007-0005-fe00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.ValidateState(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.WriteAsync(ReadOnlyMemory`1 source, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.IIS.Core.WrappingStream.WriteAsync(ReadOnlyMemory`1 source, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.InvokeCore(HttpContext context, String matchedPath, String remainingPath)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+INFO  09:45:06 Agent is Found
+INFO  09:45:06 Token is Generated
+INFO  10:11:39 Agent is Found
+INFO  10:11:39 Token is Generated
+INFO  10:25:21 Agent is Found
+INFO  10:25:21 Token is Generated
+INFO  11:22:02 Application started. Press Ctrl+C to shut down.
+INFO  11:22:02 Hosting environment: Development
+INFO  11:22:02 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  11:27:34 Application started. Press Ctrl+C to shut down.
+INFO  11:27:34 Hosting environment: Development
+INFO  11:27:34 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+ERROR 11:28:29 Failed executing DbCommand (85ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[AgentId], [a].[AgentName], [a].[Password]
+FROM [agents] AS [a]
+ERROR 11:28:29 An exception occurred while iterating over the results of a query for context type 'AuthorizationAPI.Models.AgentContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'agents'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:0951c1a2-699c-4678-998f-9b98763cfcce
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'agents'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:0951c1a2-699c-4678-998f-9b98763cfcce
+Error Number:208,State:1,Class:16
+INFO  11:31:04 Application started. Press Ctrl+C to shut down.
+INFO  11:31:04 Hosting environment: Development
+INFO  11:31:04 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  11:31:31 No Agent is Found
+INFO  11:33:58 Agent is Found
+INFO  11:33:58 Token is Generated
+INFO  12:24:20 Agent is Found
+INFO  12:24:20 Token is Generated
+INFO  01:43:48 Agent is Found
+INFO  01:43:48 Token is Generated
+INFO  02:23:41 Application started. Press Ctrl+C to shut down.
+INFO  02:23:41 Hosting environment: Development
+INFO  02:23:41 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+ERROR 02:23:45 Connection ID "18158513707758387205", Request ID "80000006-0002-fc00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.ValidateState(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.WriteAsync(ReadOnlyMemory`1 source, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.IIS.Core.WrappingStream.WriteAsync(ReadOnlyMemory`1 source, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.InvokeCore(HttpContext context, String matchedPath, String remainingPath)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+INFO  02:24:11 Agent is Found
+INFO  02:24:11 Token is Generated
+INFO  02:32:48 Agent is Found
+INFO  02:32:48 Token is Generated
+INFO  04:18:51 Application started. Press Ctrl+C to shut down.
+INFO  04:18:51 Hosting environment: Development
+INFO  04:18:51 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  04:20:19 Agent is Found
+INFO  04:20:19 Token is Generated
+INFO  05:11:18 Application started. Press Ctrl+C to shut down.
+INFO  05:11:18 Hosting environment: Development
+INFO  05:11:18 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  05:17:50 Agent is Found
+INFO  05:17:50 Token is Generated
+INFO  05:25:34 Application started. Press Ctrl+C to shut down.
+INFO  05:25:34 Hosting environment: Development
+INFO  05:25:34 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  05:26:20 Agent is Found
+INFO  05:26:20 Token is Generated
+INFO  05:27:13 Agent is Found
+INFO  05:27:13 Token is Generated
+INFO  06:02:25 Application started. Press Ctrl+C to shut down.
+INFO  06:02:25 Hosting environment: Development
+INFO  06:02:25 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  06:03:14 No Agent is Found
+INFO  06:03:15 Agent is Found
+INFO  06:03:15 Token is Generated
+INFO  06:03:15 Agent is Found
+INFO  06:03:15 Token is Generated
+INFO  06:14:52 Agent is Found
+INFO  06:14:52 Token is Generated
+INFO  06:17:32 Agent is Found
+INFO  06:17:32 Token is Generated
+INFO  06:22:39 Agent is Found
+INFO  06:22:39 Token is Generated
+INFO  06:22:39 Agent is Found
+INFO  06:22:39 Token is Generated
+INFO  06:25:02 Agent is Found
+INFO  06:25:02 Token is Generated
+INFO  12:01:31 Application started. Press Ctrl+C to shut down.
+INFO  12:01:31 Hosting environment: Development
+INFO  12:01:31 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  12:02:15 Agent is Found
+INFO  12:02:15 Token is Generated
+INFO  12:02:25 Getting All Agents
+INFO  12:21:49 Agent is Found
+INFO  12:21:49 Token is Generated
+INFO  12:45:23 Agent is Found
+INFO  12:45:23 Token is Generated
+INFO  09:53:21 Application started. Press Ctrl+C to shut down.
+INFO  09:53:21 Hosting environment: Development
+INFO  09:53:21 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  09:54:21 No Agent is Found
+INFO  09:54:50 Agent is Found
+INFO  09:54:50 Token is Generated
+INFO  09:58:42 Application started. Press Ctrl+C to shut down.
+INFO  09:58:42 Hosting environment: Development
+INFO  09:58:42 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  11:39:43 Application started. Press Ctrl+C to shut down.
+INFO  11:39:43 Hosting environment: Development
+INFO  11:39:43 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  11:47:32 Agent is Found
+INFO  11:47:32 Token is Generated
+INFO  12:08:35 Agent is Found
+INFO  12:08:35 Token is Generated
+INFO  12:22:16 Agent is Found
+INFO  12:22:16 Token is Generated
+INFO  12:30:31 Application started. Press Ctrl+C to shut down.
+INFO  12:30:31 Hosting environment: Development
+INFO  12:30:31 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  12:32:37 Agent is Found
+INFO  12:32:37 Agent is Found
+INFO  12:32:37 Token is Generated
+INFO  12:32:37 Token is Generated
+INFO  12:33:30 Agent is Found
+INFO  12:33:30 Token is Generated
+INFO  12:35:43 Agent is Found
+INFO  12:35:43 Token is Generated
+INFO  12:36:03 Agent is Found
+INFO  12:36:03 Token is Generated
+INFO  12:37:05 Agent is Found
+INFO  12:37:05 Token is Generated
+INFO  03:01:08 Application started. Press Ctrl+C to shut down.
+INFO  03:01:08 Hosting environment: Development
+INFO  03:01:09 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  03:08:20 Agent is Found
+INFO  03:08:20 Token is Generated
+INFO  11:32:21 Application started. Press Ctrl+C to shut down.
+INFO  11:32:21 Hosting environment: Development
+INFO  11:32:21 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  11:33:07 Agent is Found
+INFO  11:33:07 Token is Generated
+INFO  11:57:17 Application started. Press Ctrl+C to shut down.
+INFO  11:57:17 Hosting environment: Development
+INFO  11:57:17 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  11:57:46 Agent is Found
+INFO  11:57:46 Token is Generated
+INFO  12:17:06 Application started. Press Ctrl+C to shut down.
+INFO  12:17:06 Hosting environment: Development
+INFO  12:17:06 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  11:31:40 Application started. Press Ctrl+C to shut down.
+INFO  11:31:40 Hosting environment: Development
+INFO  11:31:40 Content root path: C:\Users\2064860\source\repos\MFPE\AuthorizationAPI-master
+INFO  11:33:15 No Agent is Found
+INFO  11:33:16 Agent is Found
+INFO  11:33:16 Token is Generated
+INFO  11:33:16 Agent is Found
+INFO  11:33:16 Token is Generated

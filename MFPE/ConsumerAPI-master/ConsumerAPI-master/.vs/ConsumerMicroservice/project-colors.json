@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "883e8aa4-58f8-40a7-8535-7d6ff47857dc": {
+      "ProjectGuid": "883e8aa4-58f8-40a7-8535-7d6ff47857dc",
+      "DisplayName": "ConsumerMicroservice",
+      "ColorIndex": 0
+    },
+    "9ced53a7-a96a-48ca-9732-2a1c473a52d6": {
+      "ProjectGuid": "9ced53a7-a96a-48ca-9732-2a1c473a52d6",
+      "DisplayName": "ConsumerMicroserviceTests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "83af454b-1be2-4576-b809-ab0e4f2085ef": {
+      "ProjectGuid": "83af454b-1be2-4576-b809-ab0e4f2085ef",
+      "DisplayName": "ConsumerMicroserviceTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
